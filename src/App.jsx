@@ -3,8 +3,8 @@ import Sidebar from "./Layout/Sidebar";
 
 function App() {
   return (
-    <main className="flex h-lvh flex-row justify-center bg-neutral-500">
-      <div className="bg-black-400 mt-16 flex h-[297mm] w-[210mm] flex-row">
+    <main className="flex h-screen flex-row justify-center bg-neutral-500">
+      <div className="bg-black-400 flex h-[297mm] w-[210mm] flex-row">
         <Sidebar />
         <Experience />
       </div>

@@ -11,7 +11,7 @@ function Profile() {
       </Title>
       <Ul className="border-y-2 border-sky-200 pl-4 text-gray-600">
         <Li>1 year of full stack web development experience</Li>
-        <Li>AustraLia Permanent Resident</Li>
+        <Li>Australia Permanent Resident</Li>
         <Li>Developed over 15 web appLications</Li>
         <Li>Certified JavaScript, HTML and CSS developer</Li>
         <Li>Certified React and NodeJS Developer</Li>

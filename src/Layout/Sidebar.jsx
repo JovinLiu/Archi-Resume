@@ -4,6 +4,7 @@ import NameAndTitle from "../Components/NameAndTitle";
 import Education from "../Components/Education";
 import Skills from "../Components/Skills";
 import Portfolio from "../Components/Portfolio";
+import Certificate from "../Components/Certificate";
 
 function Sidebar() {
   return (
@@ -14,6 +15,7 @@ function Sidebar() {
         <Portfolio />
         <Education />
         <Skills />
+        <Certificate />
       </Column>
     </aside>
   );

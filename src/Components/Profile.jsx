@@ -16,6 +16,11 @@ function Profile() {
           construction, and planning operations.
         </Li>
         <Li>
+          The architectural background offers the perspective to explore and the
+          skill to create beauty while enhancing project management
+          capabilities, attention to detail, and problem-solving abilities.
+        </Li>
+        <Li>
           Committed to continuous learning and expanding knowledge in Computer
           Science and Information Technology
         </Li>

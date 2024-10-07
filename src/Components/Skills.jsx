@@ -4,7 +4,7 @@ import Title from "../UI/Title";
 
 function Skills() {
   return (
-    <Column className="gap-5">
+    <Column className="gap-2">
       <Title type="primary">Skills</Title>
       <Column>
         <Text type="secondary" className="uppercase">

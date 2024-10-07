@@ -13,12 +13,12 @@ function App() {
   }
   return (
     <Column>
-      {/* π<button
+      <button
         className="h-10 bg-sky-200 transition-all hover:bg-sky-500 hover:text-white"
         onClick={handleClick}
       >
         DOWNLOAD RESUME
-      </button> */}
+      </button>
       <main className="flex flex-row justify-center">
         <div className="bg-black-400 flex h-[297mm] w-[210mm] flex-row">
           <Sidebar />

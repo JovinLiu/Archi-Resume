@@ -6,19 +6,20 @@ import Ul from "../UI/Ul";
 function Profile() {
   return (
     <Column className="mt-4">
-      <Title type="primary" className="text-sky-500">
-        Profile
-      </Title>
-      <Ul className="border-y-2 border-sky-200 pl-4 text-gray-600">
-        <Li>1 year of full stack web development experience</Li>
-        <Li>Australia Permanent Resident</Li>
-        <Li>Developed over 15 web appLications</Li>
-        <Li>Certified JavaScript, HTML and CSS developer</Li>
-        <Li>Certified React and NodeJS Developer</Li>
+      <Title type="primary">Profile</Title>
+      <Ul className="leading-1 border-y-2 border-indigo-200 pl-4 text-gray-600">
+        <Li>1 year plus of full stack web development experience</Li>
+        <Li>Developed and contributed to over 15 web applications</Li>
+        <Li>Certified JavaScript, HTML, CSS, React, and NodeJS developer</Li>
+        <Li>
+          Possess in-depth knowledge and expertise in architecture,
+          construction, and planning operations.
+        </Li>
         <Li>
           Committed to continuous learning and expanding knowledge in Computer
           Science and Information Technology
         </Li>
+        <Li>Australia Permanent Resident</Li>
       </Ul>
     </Column>
   );

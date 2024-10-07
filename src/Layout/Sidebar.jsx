@@ -7,7 +7,7 @@ import Portfolio from "../Components/Portfolio";
 
 function Sidebar() {
   return (
-    <aside className="flex h-full w-[70mm] flex-col bg-neutral-300 p-4 text-sm">
+    <aside className="flex h-full w-[65mm] flex-col bg-indigo-100 p-4 text-xs">
       <Column className="mt-4 gap-6">
         <NameAndTitle />
         <Basic />

@@ -7,14 +7,12 @@ import Ul from "../UI/Ul";
 function ExperienceDetail() {
   return (
     <div>
-      <Title type="primary" className="text-sky-500">
-        Experience
-      </Title>
+      <Title type="primary">Experience</Title>
       <Column
         className="gap-2
       "
       >
-        <Column className="border-y-2 border-sky-200">
+        <Column className="border-y-2 border-indigo-200">
           <Row className="justify-between">
             <span className="w-[65mm] text-left">
               <strong>Independent Full Stack Web Developer</strong>
@@ -63,7 +61,7 @@ function ExperienceDetail() {
             </Li>
           </Ul>
         </Column>
-        <Column className="border-y-2 border-sky-200">
+        <Column className="border-y-2 border-indigo-200">
           <Column>
             <Row className="justify-between">
               <span>
@@ -71,7 +69,7 @@ function ExperienceDetail() {
               </span>
               <span>May 2023 - Nov 2023 (7 Months)</span>
             </Row>
-            <Row className="justify-between text-gray-400">
+            <Row className="justify-between text-xs text-gray-400">
               <span>Hainan Design and Research Institute Co Ltd</span>
               <span>Hainan, China</span>
             </Row>
@@ -89,7 +87,7 @@ function ExperienceDetail() {
             </Li>
           </Ul>
         </Column>
-        <Column className="border-y-2 border-sky-200">
+        <Column className="border-y-2 border-indigo-200">
           <Column>
             <Row className="justify-between">
               <span>
@@ -97,7 +95,7 @@ function ExperienceDetail() {
               </span>
               <span>Sep 2019 - Sep 2021 (2 Years)</span>
             </Row>
-            <Row className="justify-between text-gray-400">
+            <Row className="justify-between text-xs text-gray-400">
               <span>Burton and Carter Architect Pty Ltd</span>
               <span>Melbourne, Australia</span>
             </Row>
@@ -110,26 +108,26 @@ function ExperienceDetail() {
             </Li>
           </Ul>
         </Column>
-        <Column className="border-y-2 border-sky-200">
+        <Column className="border-y-2 border-indigo-200">
           <Row className="justify-between">
             <span>
               <strong>Project Coordinator</strong>
             </span>
             <span>May 2018 - Sep 2019 (1 Year 5 months)</span>
           </Row>
-          <Row className="justify-between text-gray-400">
+          <Row className="justify-between text-xs text-gray-400">
             <span>CS Town Planning Pty Ltd</span>
             <span>Melbourne, Australia</span>
           </Row>
         </Column>
-        <Column className="border-y-2 border-sky-200">
+        <Column className="border-y-2 border-indigo-200">
           <Row className="justify-between">
             <span>
               <strong>Graduate Architect</strong>
             </span>
             <span>Feb 2017 - May 2018 (1 Year 4 months)</span>
           </Row>
-          <Row className="justify-between text-gray-400">
+          <Row className="justify-between text-xs text-gray-400">
             <span>Rationale Design</span>
             <span>Melbourne, Australia</span>
           </Row>

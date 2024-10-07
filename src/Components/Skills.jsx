@@ -4,44 +4,72 @@ import Title from "../UI/Title";
 
 function Skills() {
   return (
-    <Column className="gap-2">
-      <Title type="primary" className="text-sky-500">
-        Skills
-      </Title>
+    <Column className="gap-5">
+      <Title type="primary">Skills</Title>
       <Column>
-        <Text type="secondary">Front-end</Text>
-        <Text type="primary">
+        <Text type="secondary" className="uppercase">
+          Front-end
+        </Text>
+        <Text type="tertiary" className="leading-5">
           HTML5, CSS3, JavaScript, React, Redux Toolkit, Sass, Tailwind CSS,
           Styled Components, React Router, React Query
         </Text>
       </Column>
       <Column>
-        <Text type="secondary">Back-end</Text>
-        <Text type="primary">NodeJS, Express</Text>
+        <Text type="secondary" className="uppercase">
+          Back-end
+        </Text>
+        <Text type="tertiary" className="leading-5">
+          NodeJS, Express
+        </Text>
       </Column>
       <Column>
-        <Text type="secondary">Database</Text>
-        <Text type="primary">MongoDB, Mongoose, Supabase</Text>
+        <Text type="secondary" className="uppercase">
+          Database
+        </Text>
+        <Text type="tertiary" className="leading-5">
+          MongoDB, Mongoose, Supabase
+        </Text>
       </Column>
       <Column>
-        <Text type="secondary">Version Control</Text>
-        <Text type="primary">Git</Text>
+        <Text type="secondary" className="uppercase">
+          Version Control
+        </Text>
+        <Text type="tertiary" className="leading-5">
+          Git
+        </Text>
       </Column>
       <Column>
-        <Text type="secondary">UI/UX</Text>
-        <Text type="primary">Adobe Creative Suite</Text>
+        <Text type="secondary" className="uppercase">
+          UI/UX
+        </Text>
+        <Text type="tertiary" className="leading-5">
+          Adobe Creative Suite
+        </Text>
       </Column>
       <Column>
-        <Text type="secondary">CI/CD</Text>
-        <Text type="primary">Netlify, Vercel, Heroku, Render</Text>
+        <Text type="secondary" className="uppercase">
+          CI/CD
+        </Text>
+        <Text type="tertiary" className="leading-5">
+          Netlify, Vercel, Heroku, Render
+        </Text>
       </Column>
       <Column>
-        <Text type="secondary">API</Text>
-        <Text type="primary">RESTful APIs, Postman</Text>
+        <Text type="secondary" className="uppercase">
+          API
+        </Text>
+        <Text type="tertiary" className="leading-5">
+          RESTful APIs, Postman
+        </Text>
       </Column>
       <Column>
-        <Text type="secondary">AI Assistance</Text>
-        <Text type="primary">ChatGPT, Github Copilot</Text>
+        <Text type="secondary" className="uppercase">
+          AI Assistance
+        </Text>
+        <Text type="tertiary" className="leading-5">
+          ChatGPT, Github Copilot
+        </Text>
       </Column>
     </Column>
   );

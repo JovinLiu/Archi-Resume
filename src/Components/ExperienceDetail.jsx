@@ -9,7 +9,7 @@ function ExperienceDetail() {
     <div>
       <Title type="primary">Experience</Title>
       <Column
-        className="gap-2
+        className="gap-4
       "
       >
         <Column className="border-y-2 border-indigo-200">
@@ -21,9 +21,13 @@ function ExperienceDetail() {
           </Row>
           <Ul className="list-inside pl-4 text-gray-600">
             <Li>
-              Developed dynamic web applications using modern JavaScript
-              frameworks, including React, to create responsive and interactive
-              user interfaces.
+              Developed dynamic web applications using both modern JavaScript
+              frameworks (React) and vanilla Javascript to create responsive and
+              interactive user interfaces.
+            </Li>
+            <Li>
+              Effectively managed state in applications using various state
+              management solutions, including Context API and Redux.
             </Li>
             <Li>
               Proficient in building RESTful APIs with Node.js and Express.js,
@@ -52,12 +56,12 @@ function ExperienceDetail() {
               deployment, and maintenance.
             </Li>
             <Li>
-              Demonstrated strong project management skills by consistently
-              delivering high-quality projects on schedule.
+              Familiarity with Agile development methodologies and version
+              control systems.
             </Li>
             <Li>
-              Engaged with user feedback to provide timely support and adapt to
-              evolving requirements, ensuring continued product improvement.
+              Demonstrated strong project management skills by consistently
+              delivering high-quality projects on schedule.
             </Li>
           </Ul>
         </Column>

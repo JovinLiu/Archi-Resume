@@ -9,7 +9,7 @@ function Profile() {
       <Title type="primary">Profile</Title>
       <Ul className="leading-1 border-y-2 border-indigo-200 pl-4 text-gray-600">
         <Li>1 year plus of full stack web development experience</Li>
-        <Li>Developed and contributed to over 15 web applications</Li>
+        <Li>Developed more than 10 web applications</Li>
         <Li>Certified JavaScript, HTML, CSS, React, and NodeJS developer</Li>
         <Li>
           Possess in-depth knowledge and expertise in architecture,

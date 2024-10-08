@@ -10,7 +10,10 @@ function Portfolio() {
       <Row className="align-center justify-between">
         <Text>Website</Text>
         <a href="https://www.jovinliu.com/" target="_blank">
-          <Text type="tertiary" className="underline">
+          <Text
+            type="tertiary"
+            className="rounded-md bg-indigo-300 p-1 underline"
+          >
             https://www.jovinliu.com
           </Text>
         </a>

@@ -8,7 +8,7 @@ import Certificate from "../Components/Certificate";
 
 function Sidebar() {
   return (
-    <aside className="flex h-full w-[65mm] flex-col bg-indigo-100 p-4 text-xs">
+    <aside className="flex h-full w-[65mm] flex-col bg-indigo-100 p-4 text-sm">
       <Column className="mt-4 gap-6">
         <NameAndTitle />
         <Basic />

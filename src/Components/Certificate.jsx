@@ -6,7 +6,7 @@ function Certificate() {
     <Column className="gap-2">
       <Title type="primary">Certificates</Title>
       {/* <Ul className="list-none gap-1 border-indigo-200 pl-4"> */}
-      <Column className="gap-1">
+      <Column className="leading-1 gap-1 text-xs">
         <a
           className="text-gray-900 underline"
           href="https://www.udemy.com/certificate/UC-a1c37ebb-4bf5-4e3c-93f9-ef7bea40015b/"

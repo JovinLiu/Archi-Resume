@@ -106,7 +106,7 @@ function ExperienceDetail() {
           </Column>
           <Ul className="pl-4 text-gray-600">
             <Li>
-              Managed every phase of residential and hospitality projects, from
+              Managed different phase of residential and hospitality projects, from
               the initial design through to construction, using Adobe Creative
               Suite to create visualization images.
             </Li>

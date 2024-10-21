@@ -16,25 +16,25 @@ function Basic() {
       <Row className="align-center justify-between">
         <Text>Email</Text>
         <a href="mailto:liujovin@gmail.com">
-          <Text type="tertiary" className="underline">
-            liujovin@gmail.com
-          </Text>
+        <Text type="tertiary" className="underline">
+          liujovin@gmail.com
+        </Text>
         </a>
       </Row>
       <Row className="align-center justify-between">
         <Text>Linkedin</Text>
         <a href="https://www.linkedin.com/in/jovinliu/" target="_blank">
-          <Text type="tertiary" className="underline">
-            linkedin.com/in/jovinliu
-          </Text>
+        <Text type="tertiary" className="underline">
+          linkedin.com/in/jovinliu
+        </Text>
         </a>
       </Row>
       <Row className="align-center justify-between">
         <Text>Github</Text>
         <a href="https://github.com/JovinLiu" target="_blank">
-          <Text type="tertiary" className="underline">
-            github.com/JovinLiu
-          </Text>
+        <Text type="tertiary" className="underline">
+          github.com/JovinLiu
+        </Text>
         </a>
       </Row>
     </Column>

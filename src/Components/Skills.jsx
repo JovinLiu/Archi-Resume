@@ -11,8 +11,8 @@ function Skills() {
           Front-end
         </Text>
         <Text type="tertiary" className="leading-5">
-          HTML5, CSS3, JavaScript, React, Redux Toolkit, Sass, Tailwind CSS,
-          Styled Components, React Router, React Query
+          HTML5, CSS3, JavaScript, TypeScript, React, Redux Toolkit, Sass,
+          Tailwind CSS, Styled Components, React Router, React Query
         </Text>
       </Column>
       <Column>

@@ -22,8 +22,8 @@ function ExperienceDetail() {
           <Ul className="list-inside pl-4 text-gray-600">
             <Li>
               Developed dynamic web applications using both modern JavaScript
-              frameworks (React) and vanilla Javascript to create responsive and
-              interactive user interfaces.
+              and TypeScript frameworks (React) and vanilla Javascript to create
+              responsive and interactive user interfaces.
             </Li>
             <Li>
               Effectively managed state in applications using various state
@@ -106,9 +106,9 @@ function ExperienceDetail() {
           </Column>
           <Ul className="pl-4 text-gray-600">
             <Li>
-              Managed different phase of residential and hospitality projects, from
-              the initial design through to construction, using Adobe Creative
-              Suite to create visualization images.
+              Managed different phase of residential and hospitality projects,
+              from the initial design through to construction, using Adobe
+              Creative Suite to create visualization images.
             </Li>
           </Ul>
         </Column>

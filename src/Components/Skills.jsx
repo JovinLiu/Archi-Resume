@@ -4,15 +4,23 @@ import Title from "../UI/Title";
 
 function Skills() {
   return (
-    <Column className="gap-2">
+    <Column className="gap-4">
       <Title type="primary">Skills</Title>
       <Column>
         <Text type="secondary" className="uppercase">
           Front-end
         </Text>
         <Text type="tertiary" className="leading-5">
-          HTML5, CSS3, JavaScript, TypeScript, React, Redux Toolkit, Sass,
-          Tailwind CSS, Styled Components, React Router, React Query
+          HTML5, JavaScript, TypeScript, React, Redux Toolkit, Next.js, React
+          Router, React Query
+        </Text>
+      </Column>
+      <Column>
+        <Text type="secondary" className="uppercase">
+          Styling
+        </Text>
+        <Text type="tertiary" className="leading-5">
+          CSS3, Sass, Styled Components, Tailwind CSS,
         </Text>
       </Column>
       <Column>
@@ -36,7 +44,7 @@ function Skills() {
           Version Control
         </Text>
         <Text type="tertiary" className="leading-5">
-          Git
+          Agile Methodology, Git
         </Text>
       </Column>
       <Column>
@@ -69,6 +77,14 @@ function Skills() {
         </Text>
         <Text type="tertiary" className="leading-5">
           ChatGPT, Github Copilot
+        </Text>
+      </Column>
+      <Column>
+        <Text type="secondary" className="uppercase">
+          Other Tools
+        </Text>
+        <Text type="tertiary" className="leading-5">
+          Webpack, Vite
         </Text>
       </Column>
     </Column>

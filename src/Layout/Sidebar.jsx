@@ -4,18 +4,18 @@ import NameAndTitle from "../Components/NameAndTitle";
 import Education from "../Components/Education";
 import Skills from "../Components/Skills";
 import Portfolio from "../Components/Portfolio";
-import Certificate from "../Components/Certificate";
+// import Certificate from "../Components/Certificate";
 
 function Sidebar() {
   return (
     <aside className="flex h-full w-[65mm] flex-col bg-indigo-100 p-4 text-sm">
-      <Column className="mt-4 gap-6">
+      <Column className=" gap-6">
         <NameAndTitle />
         <Basic />
         <Portfolio />
-        <Education />
         <Skills />
-        <Certificate />
+        <Education />
+        {/* <Certificate /> */}
       </Column>
     </aside>
   );

@@ -5,14 +5,8 @@ import Title from "../UI/Title";
 
 function Education() {
   return (
-    <Column className="gap-2">
+    <Column className="gap-4">
       <Title type="primary">Education</Title>
-      {/* <Row className="justify-between">
-        <Text type="secondary">2023-2024</Text>
-        <Text type="primary" className="w-[40mm] text-right">
-          Udemy Web Developer Courses
-        </Text>
-      </Row> */}
       <Row className="justify-between">
         <Text type="secondary">2014-2016</Text>
         <Column>

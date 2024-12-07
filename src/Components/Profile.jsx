@@ -24,7 +24,7 @@ function Profile() {
         </Li>
         <Li>Familiarity with Council Planning Scheme and Rescode</Li>
         <Li>Experienced various Australian Standards, NCC and BCA </Li>
-        <Li>Proficient in ArchiCAD and AutoCad</Li>
+        <Li>Proficient in ArchiCAD and AutoCAD</Li>
         <Li>Have a good understanding of construction</Li>
         <Li>Australia Permanent Resident</Li>
       </Ul>

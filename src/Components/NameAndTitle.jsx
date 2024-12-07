@@ -3,14 +3,12 @@ import Title from "../UI/Title";
 
 function NameAndTitle() {
   return (
-    <Column className="bg-gradient-to-b from-indigo-800 to-indigo-700 bg-clip-text">
+    <Column className="bg-gradient-to-b from-sky-800 to-sky-700 bg-clip-text">
       <Title type="master1" className="text-transparent">
-        {/* <Title type="master1"> */}
         <strong>Jovin Liu</strong>
       </Title>
       <Title type="master2" className="text-transparent">
-        {/* <Title type="master2"> */}
-        <strong>Full Stack Web Developer</strong>
+        <strong>Experienced Graduate Architect</strong>
       </Title>
     </Column>
   );

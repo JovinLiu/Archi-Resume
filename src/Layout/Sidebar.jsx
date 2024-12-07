@@ -8,13 +8,13 @@ import Portfolio from "../Components/Portfolio";
 
 function Sidebar() {
   return (
-    <aside className="flex h-full w-[65mm] flex-col bg-indigo-100 p-4 text-sm">
-      <Column className=" gap-6">
+    <aside className="flex h-full w-[58mm] flex-col bg-sky-100 pl-4 pr-2 pt-4 text-sm">
+      <Column className="gap-8">
         <NameAndTitle />
         <Basic />
         <Portfolio />
-        <Skills />
         <Education />
+        <Skills />
         {/* <Certificate /> */}
       </Column>
     </aside>

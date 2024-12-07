@@ -7,26 +7,25 @@ function Profile() {
   return (
     <Column className="mt-0">
       <Title type="primary">Profile</Title>
-      <Ul className="leading-1 border-y-2 border-indigo-200 pl-4 text-gray-600">
-        <Li>1 year plus of full stack web development experience</Li>
-        <Li>Developed more than 10 web applications</Li>
+      <Ul className="leading-1 border-y-2 border-sky-200 pl-4 text-gray-600">
+        <Li>5 year plus of graduate architect and draftsperson experience</Li>
         <Li>
-          Certified JavaScript, TypeScript, HTML, CSS, React, and NodeJS
-          developer
+          Experienced a wide range of local residential projects, design
+          development, client visual presentation, documentation. including and
+          building permit application
         </Li>
         <Li>
-          Possess in-depth knowledge and expertise in architecture,
-          construction, and planning operations.
+          Experienced various local hospitality project and interior design.
         </Li>
+        <Li>Experienced large scale projects located in China.</Li>
         <Li>
-          The architectural background offers the perspective to explore and the
-          skill to create beauty while enhancing project management
-          capabilities, attention to detail, and problem-solving abilities.
+          Communication with council planner for town planning permit and
+          building surveyor for building permit
         </Li>
-        <Li>
-          Committed to continuous learning and expanding knowledge in Computer
-          Science and Information Technology
-        </Li>
+        <Li>Familiarity with Council Planning Scheme and Rescode</Li>
+        <Li>Experienced various Australian Standards, NCC and BCA </Li>
+        <Li>Proficient in ArchiCAD and AutoCad</Li>
+        <Li>Have a good understanding of construction</Li>
         <Li>Australia Permanent Resident</Li>
       </Ul>
     </Column>

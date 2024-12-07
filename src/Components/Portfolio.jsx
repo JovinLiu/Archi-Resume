@@ -8,15 +8,20 @@ function Portfolio() {
     <Column className="align-center justify-between gap-2">
       <Title type="primary">Portfolio</Title>
       <Row className="align-center justify-between">
-        <Text>Website</Text>
-        <a href="https://www.jovinliu.com/" target="_blank">
-          <Text
-            type="tertiary"
-            className="rounded-md bg-indigo-300 p-1 underline"
+        <Column>
+          <Text className="mb-1 pt-[0.1rem]">PDF file</Text>
+          <a
+            href="https://www.jovinliu.com/2024-Portfolio-JovinLiu-min.pdf"
+            target="_blank"
           >
-            https://www.jovinliu.com
-          </Text>
-        </a>
+            <Text
+              type="tertiary"
+              className="rounded-md bg-sky-300 p-1 underline"
+            >
+              https://www.jovinliu.com/123123
+            </Text>
+          </a>
+        </Column>
       </Row>
     </Column>
   );

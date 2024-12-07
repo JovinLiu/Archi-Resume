@@ -7,28 +7,28 @@ function Education() {
   return (
     <Column className="gap-4">
       <Title type="primary">Education</Title>
-      <Row className="justify-between">
+      <Column className="justify-between">
         <Text type="secondary">2014-2016</Text>
         <Column>
-          <Text type="tertiary" className="w-[40mm] text-right">
+          <Text type="tertiary" className="w-[40mm] text-left">
             Master of Architecture
           </Text>
-          <Text type="tertiary" className="w-[40mm] text-right">
+          <Text type="tertiary" className="w-[40mm] text-left">
             Melbourne University
           </Text>
         </Column>
-      </Row>
-      <Row className="justify-between">
+      </Column>
+      <Column className="justify-between">
         <Text type="secondary">2009-2014</Text>
         <Column>
-          <Text type="tertiary" className="w-[40mm] text-right">
+          <Text type="tertiary" className="w-[40mm] text-left">
             Bachelor of Architecture
           </Text>
-          <Text type="tertiary" className="w-[40mm] text-right">
+          <Text type="tertiary" className="w-[40mm] text-left">
             Xiamen University
           </Text>
         </Column>
-      </Row>
+      </Column>
     </Column>
   );
 }

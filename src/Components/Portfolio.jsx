@@ -11,14 +11,14 @@ function Portfolio() {
         <Column>
           <Text className="mb-1 pt-[0.1rem]">PDF file</Text>
           <a
-            href="https://www.jovinliu.com/2024-Portfolio-JovinLiu-min.pdf"
+            href="https://drive.google.com/file/d/1QQGOKRSfxmO1l9pKPEGyokshixb_nmdc/view?usp=drive_link"
             target="_blank"
           >
             <Text
               type="tertiary"
               className="rounded-md bg-sky-300 p-1 underline"
             >
-              https://www.jovinliu.com/123123
+              https://drive.google.com/file/d/1QQGOKRSfxmO1l9pKPEGyokshixb_nmdc/view?usp=drive_link
             </Text>
           </a>
         </Column>

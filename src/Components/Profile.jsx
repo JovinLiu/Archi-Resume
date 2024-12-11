@@ -8,24 +8,31 @@ function Profile() {
     <Column className="mt-0">
       <Title type="primary">Profile</Title>
       <Ul className="leading-1 border-y-2 border-sky-200 pl-4 text-gray-600">
-        <Li>5 year plus of graduate architect and draftsperson experience</Li>
         <Li>
-          Experienced a wide range of local residential projects, design
-          development, client visual presentation, documentation. including and
-          building permit application
+          Over 5 years of experience as a Graduate Architect and Draftsperson
         </Li>
         <Li>
-          Experienced various local hospitality project and interior design.
+          Extensive involvement in a wide range of local residential projects,
+          including design development, client visual presentations, Town
+          Planning Application, and documentation building permit applications
         </Li>
-        <Li>Experienced large scale projects located in China.</Li>
         <Li>
-          Communication with council planner for town planning permit and
-          building surveyor for building permit
+          Hands-on experience in local hospitality projects and interior design
         </Li>
-        <Li>Familiarity with Council Planning Scheme and Rescode</Li>
-        <Li>Experienced various Australian Standards, NCC and BCA </Li>
+        <Li>
+          Participated in large-scale educational and cultural public projects
+          based in China
+        </Li>
+        <Li>
+          Liaising with council planners for town planning permits and with
+          building surveyors for building permits
+        </Li>
+        <Li>Familiar with Council Planning Schemes and ResCode</Li>
+        <Li>
+          Experienced in applying Australian Standards, NCC, and BCA in projects
+        </Li>
         <Li>Proficient in ArchiCAD and AutoCAD</Li>
-        <Li>Have a good understanding of construction</Li>
+        <Li>Strong understanding of construction principles</Li>
         <Li>Australia Permanent Resident</Li>
       </Ul>
     </Column>

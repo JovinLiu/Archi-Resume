@@ -9,16 +9,20 @@ function Portfolio() {
       <Title type="primary">Portfolio</Title>
       <Row className="align-center justify-between">
         <Column>
-          <Text className="mb-1 pt-[0.1rem]">PDF file</Text>
+          <Text className="mb-1 pt-[0.1rem]">
+            Click to download or copy the link
+          </Text>
           <a
             href="https://drive.google.com/file/d/1QQGOKRSfxmO1l9pKPEGyokshixb_nmdc/view?usp=drive_link"
             target="_blank"
           >
             <Text
               type="tertiary"
-              className="rounded-md bg-sky-300 p-1 underline"
+              className="inline-block text-wrap break-all rounded-md bg-sky-300 p-1 underline"
             >
-              https://drive.google.com/file/d/1QQGOKRSfxmO1l9pKPEGyokshixb_nmdc/view?usp=drive_link
+              {
+                "https://drive.google.com/file/d/1QQGOKRSfxmO1l9pKPEGyokshixb_nmdc/view?usp=drive_link"
+              }
             </Text>
           </a>
         </Column>

@@ -17,10 +17,15 @@ function Exp2() {
         <span>Melbourne, Australia</span>
       </Row>
       <Ul className="pl-4 text-gray-600">
-        <Li>Schematic Design and Design Development</Li>
-        <Li>Town Planning Application</Li>
-        <Li>Construction Documentation in ArchiCAD for Building Permit</Li>
-        <Li>Liaising Clients, Authorities and Consultants</Li>
+        <Li>Prepared Schematic Design and Design Development documents for residential development</Li>
+        <Li>
+          Prepared town planning application documents for backyard subdivisions,
+          duplexes, and multi-unit developments.
+        </Li>
+        <Li>
+          Construction Documentation in ArchiCAD for Building Permit Application
+        </Li>
+        <Li>Liaising Clients, council planners, Authorities and Consultants</Li>
       </Ul>
     </Column>
   );

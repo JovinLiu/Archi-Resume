@@ -21,13 +21,14 @@ function Exp3() {
 
       <Ul className="pl-4 text-gray-600">
         <Li>
-          Participated in the design and development of large-scale educational
-          and residential projects.
+          Participated in the design and construction documentation of
+          medium-scale hospitality and residential projects, including the
+          Studley Park Boathouse, Yarra Botanica Floating Bar, Tanner Grove
+          Townhouse, and Public House in Richmond.
         </Li>
         <Li>
-          Incorporated Stable Diffusion for generating 3D architectural
-          rendering images and utilized ChatGPT to produce design documents
-          within the architectural design workflow.
+          Prepared exterior and interoir visual presentations using ArchiCAD's
+          built-in rendering software and the Adobe Creative Suite.
         </Li>
       </Ul>
     </Column>

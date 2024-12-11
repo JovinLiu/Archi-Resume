@@ -17,7 +17,14 @@ function Exp1() {
         <span>Melbourne, Australia</span>
       </Row>
       <Ul className="pl-4 text-gray-600">
-        <Li>Schematic Design and Design Development</Li>
+        <Li>
+          Assisted the Principal Architect in converting drafts into CAD
+          drawings and 3D models.
+        </Li>
+        <Li>
+          Prepared Town Planning Applications and Construction Documentation for
+          home extensions.
+        </Li>
       </Ul>
     </Column>
   );

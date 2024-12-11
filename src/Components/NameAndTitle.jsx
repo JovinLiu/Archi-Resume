@@ -3,7 +3,7 @@ import Title from "../UI/Title";
 
 function NameAndTitle() {
   return (
-    <Column className="bg-gradient-to-b from-sky-800 to-sky-700 bg-clip-text">
+    <Column className="bg-gradient-to-b from-sky-800 to-sky-800 bg-clip-text">
       <Title type="master1" className="text-transparent">
         <strong>Jovin Liu</strong>
       </Title>

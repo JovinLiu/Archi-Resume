@@ -20,13 +20,13 @@ function Exp4() {
       </Column>
       <Ul className="list-inside pl-4 text-gray-600">
         <Li>
-          Participated in the design and development of large-scale educational
-          and residential projects.
+          Participated in the design and development of large-scale educational,
+          residential, and public projects.
         </Li>
         <Li>
-          Incorporated Stable Diffusion for generating 3D architectural
-          rendering images and utilized ChatGPT to produce design documents
-          within the architectural design workflow.
+          Integrated Stable Diffusion to generate 3D architectural renderings
+          and utilized ChatGPT to create design documents as part of the
+          architectural design workflow.
         </Li>
       </Ul>
     </Column>

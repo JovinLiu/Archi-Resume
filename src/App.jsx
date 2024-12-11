@@ -3,15 +3,9 @@ import Sidebar from "./Layout/Sidebar";
 import Column from "./UI/Column";
 
 function App() {
-  function handleClick() {
-    const link = document.createElement("a");
-    link.href = "/Resume-Jovin-Liu-Full-Stack.pdf";
-    link.download = "Resume-Jovin-Liu-Full-Stack.pdf";
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-  }
+
   return (
+    <>
     <Column>
       <main className="flex flex-row justify-center">
         <div className="bg-black-400 flex h-[297mm] w-[210mm] flex-row">
@@ -20,6 +14,15 @@ function App() {
         </div>
       </main>
     </Column>
+    <Column>
+      <main className="flex flex-row justify-center">
+        <div className="bg-black-400 flex h-[297mm] w-[210mm] flex-row">
+        {/* <Experience />
+        <Sidebar /> */}
+        </div>
+      </main>
+    </Column>
+    </>
   );
 }
 
